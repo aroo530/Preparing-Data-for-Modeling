@@ -6,4 +6,4 @@ You've been hired by a major online data science training provider to store thei
 ## Project Tasks
 Convert the data types of each column to store the data more efficiently.
 
-*This project was introduced and submitted to data camp*
+*This project was introduced and submitted to data camp Link: <a href="https://app.datacamp.com/learn/projects/customer_analytics_preparing_data_for_modeling/guided/Python" target="_blank">Here</a>*
